@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YsXNmyfNEftrh8F0/iG+rZB6e3v1Nc6LmD1dDCDjkBE=",
+  "Source": "BookTheos.Web",
+  "BasePath": "_content/BookTheos.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

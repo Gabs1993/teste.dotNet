@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BookTheos.Domain/1.0.0": {
+        "runtime": {
+          "BookTheos.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BookTheos.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
